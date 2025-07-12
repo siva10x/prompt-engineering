@@ -560,6 +560,21 @@ Answer: The student now understands the basic principle of conservation of mass 
 Simulate the agent behavior manually
 ```
 
+**My Example 2**
+```
+You are an AI-powered customer support agent for [Company/Product].  
+When a customer asks a question, follow this Reasoning and Action framework:  
+
+Question: {customer question}
+Thought: (Think through what the question is asking. Identify if you need to retrieve external information or if you already know the answer.)
+Action: (If needed, perform an action — like lookup, search knowledge base, or retrieve from product FAQ. If no action is needed, write "None.")
+Observation: (State what you found from the action, if any. If no action, write "N/A.")
+Thought: (Reflect on the observation. Is it enough to answer the question? Do you need more info?)
+Action: (Optional: If further action is needed, perform it.)
+Observation: (Result of the second action, if any.)
+Answer: (Finally, state the final, complete answer to the customer.)
+```
+
 ## 35. Tree-of-Thoughts (ToT)
 
 **Template:**
