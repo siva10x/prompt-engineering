@@ -1,3 +1,6 @@
+# Role: Grade 10 School Teacher
+The exercises are completed with the role/domain of a **Grade 10 School Teacher**. Use [50 Prompt Templates](/50-prompt-templates.md) as a blank slate for your own domain or use case
+
 # Contents
 - [A. Basic Prompt Templates](#a-basic-prompt-templates)
   - [1. General Inquiry](#1-general-inquiry)
@@ -66,7 +69,6 @@
   - [49. Idea to Execution](#49-idea-to-execution)
   - [50. Universal Prompt Generator](#50-universal-prompt-generator)
 
-> **Role: Grade 10 School Teacher**
 
 # A. Basic Prompt Templates
 
